@@ -42,7 +42,7 @@ The circuit is based on a standard astable multivibrator configuration using a T
 3.  **Placement:** Place the LED at the coordinate corresponding to the duck's mouth. The battery holder goes on the back (`B.Cu`) to keep the front clean.
 4.  **Routing:** Route traces on the front (`F.Cu`) and back (`B.Cu`). Keep traces > 0.3mm for reliable CNC milling.
 
-![KiCad PCB Layout View](assets/kicad-design-screenshot.png)
+![KiCad PCB Layout View](asset/kicad-design-screenshot.png)
 *(Above: The PCB layout in KiCad showing the placement of the LED relative to the board outline)*
 
 ### 2. File Preparation
